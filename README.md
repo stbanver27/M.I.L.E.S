@@ -21,7 +21,7 @@
 
 ## 📖 Descripción del Proyecto
 
-**Miles** —en honor a Miles Morales, el Spider-Man que hackea, programa y controla la tecnología de su ciudad tan bien como sus propios poderes— es un asistente de hogar inteligente construido **desde cero**, sin depender de plataformas comerciales cerradas (Alexa, Google Home, Siri).
+**Miles** —en honor a Miles Morales el Spider-Man — es un asistente de hogar inteligente construido **desde cero**, sin depender de plataformas comerciales cerradas (Alexa, Google Home, Siri).
 
 La motivación detrás de este proyecto es doble:
 
